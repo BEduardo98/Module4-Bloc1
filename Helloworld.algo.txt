@@ -2,7 +2,7 @@ Utiliser les constantes de Constantes
 Algo HelloWorld {
  fonction principale {
 // Création de la fenetre
- Créer une fenetre de titre HELLO_WORLD
+Créer une fenetre de titre HELLO_WORLD
 Créer la couleur vert
 Mettre la couleur du fond en vert
 Mettre la dimension à 200, 200
@@ -16,3 +16,4 @@ Ajouter le lable sur la fenetre
 Afficher la fenêtre
 }
 }
+// Fin du code
