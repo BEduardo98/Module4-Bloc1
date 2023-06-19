@@ -6,7 +6,7 @@ Créer une fenetre de titre HELLO_WORLD
 Créer la couleur vert
 // Fix issue #1
 Mettre la couleur du fond en cyan
-Mettre la dimension à 800, 1050
+Mettre la dimension à 1080, 1980
 Configurer la fenetre sur ‘exitOnClose’
 // Création du label de texte
 Créer un label avec du texte centré et contenant le texte HELLO_WORLD_TEXT
