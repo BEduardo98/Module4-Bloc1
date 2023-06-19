@@ -10,6 +10,7 @@ Mettre la dimension à 1080, 1980
 Configurer la fenetre sur ‘exitOnClose’
 // Création du label de texte
 Créer un label avec du texte centré et contenant le texte HELLO_WORLD_TEXT
+Créer un label avec la date du jour
 Créer la couleur jaune
 Mettre la couleur jaune sur le label
 // Finalisation de l'application
